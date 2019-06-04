@@ -1,0 +1,28 @@
+.container{
+	text-align: center;
+	margin: 300px;
+}
+
+
+.title{
+	font-size: 30px;
+	font-family: 'Noto Sans HK', sans-serif;
+}
+
+.sub-title{
+	font-size: 15px;
+	font-family: 'Noto Sans HK', sans-serif;
+	font-weight: lighter;
+}
+
+.underlined{
+	text-decoration: underline;
+
+}
+
+.para{
+	font-size: 12px;
+	font-family: 'Merriweather', serif;
+	font-weight: lighter;
+	word-spacing: 1.5px;
+}
